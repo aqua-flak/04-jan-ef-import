@@ -22,7 +22,7 @@ function IndexPage() {
   return (
     <Page>
       <section className="flex flex-col gap-6">
-        <Text variant="h1">Adding headers at the edge</Text>
+        <Text variant="h2">Adding headers at the edge</Text>
         <Text>
           In some cases we might want to add or modify the headers from an
           incoming request for different reasons, AB testing, personalization,
